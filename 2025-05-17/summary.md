@@ -18,5 +18,5 @@
  * Started Problem Set 7 and completed Problem 1: Songs
 
  ## Problem 1: Songs
- # The Task: Write SQL queries to answer questions about a database of the 100 most-streamed songs on Spotify in 2018.
+ ### The Task: Write SQL queries to answer questions about a database of the 100 most-streamed songs on Spotify in 2018.
  
