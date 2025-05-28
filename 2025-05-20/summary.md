@@ -14,7 +14,10 @@
 ---
   
 **Summary:**  
-This problem is rather similar to problem 1; I create a single SQL query for each question on a given database to filter for results. The prompts for the problem can be found below:
+This problem is rather similar to problem 1; I create a single SQL query for each question on a given database to filter for results. The prompts for the problem can be found below, and I saved each prompt in a corresponding `.sql` file with a number.
+
+**Challenges:**
+This problem is essentially a continuation of Problem 1: Songs, except with harder problems to solve. I found that some problems were difficult to complete with a simple `SELECT * FROM x WHERE y = z` command, and I needed to learn new keywords to be able to solve this issue. 
 
 ---
 

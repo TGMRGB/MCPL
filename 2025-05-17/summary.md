@@ -25,12 +25,12 @@
  **Summary:**  
  The problem set requests the writing of multiple SQL queries to answer a variety of different questions by selecting data  
  from one or more of the tables in the provided database, then reflecting on the ways Spotify might use this same data in their  
- annual [Spotify Wrapped](https://en.wikipedia.org/wiki/Spotify_Wrapped) campaign to characterize listenersâ€™ habits.  
+ annual [Spotify Wrapped](https://en.wikipedia.org/wiki/Spotify_Wrapped) campaign to characterize listeners' habits.  
   
 For each of the 8 available problems, I wrote a single SQL query query that outputs the results specified by each problem, labeling them  
-by their corresponding problem number. For example, the first problem was saved in a file called `1.sql`.  
+by their corresponding problem number. For exam the first problem was saved in a file called `1.sql`.  
 The database I am manipulating has been provided by CS50's staff, and this problem involves adding to distribution code.  
-  
+
 **Here are the prompts for each question:**  
 
 ---

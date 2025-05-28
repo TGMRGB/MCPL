@@ -20,7 +20,11 @@
 ---
   
 **Summary:**  
-This problem is quite peculiar; instead of using SQL queries to solve a task, I am using SQL SELECT queries to pull useful data from a database. I must then record my steps taken and thought process in a log. The database contains a variety of tables, such as security logs, phone logs, airport logs, and so on. The full specification can be found below:
+This problem is quite peculiar; instead of using SQL queries to solve a task, I am using SQL SELECT queries to pull useful data from a database. I must then record my steps taken and thought process in a log. The database contains a variety of tables, such as security logs, phone logs, airport logs, and so on. The full specification can be found below.  
+<ins>This problem uses distribution code. The file(s) `fiftyville.db` has been provided by [CS50x](https://cs50.harvard.edu). </ins>
+
+**Challenges:**
+This problem is distinctly different from the first 2 problems. While the other two simply required me to write queries to display info, this assignment required me to not only write queries, but to use the data pulled from each query in other queries. In other words, this problem was not limited to pure programming, and required some critical thinking to complete. Furthermore, the problem has been made deliberately complex, with the pool of people refusing to narrow further in some steps, which may be why the problem is not as optimized as it could be. 
 
 ---
 
