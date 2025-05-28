@@ -28,12 +28,14 @@
  annual [Spotify Wrapped](https://en.wikipedia.org/wiki/Spotify_Wrapped) campaign to characterize listeners' habits.  
   
 For each of the 8 available problems, I wrote a single SQL query query that outputs the results specified by each problem, labeling them  
-by their corresponding problem number. For exam the first problem was saved in a file called `1.sql`.  
+by their corresponding problem number. For example, the first problem was saved in a file called `1.sql`.  
 The database I am manipulating has been provided by CS50's staff, and this problem involves adding to distribution code.  
 
-**Here are the prompts for each question:**  
+  
 
 ---
+
+**Specification:**
 
 1. In 1.sql, write a SQL query to list the names of all songs in the database.
     * Your query should output a table with a single column for the name of each song.
@@ -52,14 +54,14 @@ The database I am manipulating has been provided by CS50's staff, and this probl
 
 6. In 6.sql, write a SQL query that lists the names of songs that are by Post Malone.
     * Your query should output a table with a single column for the name of each song.
-    * You should not make any assumptions about what Post Maloneâ€™s artist_id is.
+    * You should not make any assumptions about what Post Malone's artist_id is.
 
 7. In 7.sql, write a SQL query that returns the average energy of songs that are by Drake.
     * Your query should output a table with a single column and a single row containing the average energy.
-    * You should not make any assumptions about what Drakeâ€™s artist_id is.
+    * You should not make any assumptions about what Drake's artist_id is.
 
 8. In 8.sql, write a SQL query that lists the names of the songs that feature other artists.
-    * Songs that feature other artists will include â€œfeat.â€ in the name of the song.
+    * Songs that feature other artists will include "feat." in the name of the song.
     * Your query should output a table with a single column for the name of each song.
  
 ---

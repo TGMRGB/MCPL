@@ -21,11 +21,12 @@ This problem is essentially a continuation of Problem 1: Songs, except with hard
 
 ---
 
+**Specification:**
 1. In 1.sql, write a SQL query to list the titles of all movies released in 2008.
     * Your query should output a table with a single column for the title of each movie.
 
 2. In 2.sql, write a SQL query to determine the birth year of Emma Stone.
-    * Your query should output a table with a single column and a single row (not counting the header) containing Emma Stoneâ€™s birth year.
+    * Your query should output a table with a single column and a single row (not counting the header) containing Emma Stone's birth year.
     * You may assume that there is only one person in the database with the name Emma Stone.
 
 3. In 3.sql, write a SQL query to list the titles of all movies with a release date on or after 2018, in alphabetical order.
@@ -37,7 +38,7 @@ This problem is essentially a continuation of Problem 1: Songs, except with hard
 
 5. In 5.sql, write a SQL query to list the titles and release years of all Harry Potter movies, in chronological order.
     * Your query should output a table with two columns, one for the title of each movie and one for the release year of each movie.
-    * You may assume that the title of all Harry Potter movies will begin with the words â€œHarry Potterâ€, and that if a movie title begins with the words â€œHarry Potterâ€, it is a Harry Potter movie.
+    * You may assume that the title of all Harry Potter movies will begin with the words "Harry Potter", and that if a movie title begins with the words "Harry Potter", it is a Harry Potter movie.
 
 6. In 6.sql, write a SQL query to determine the average rating of all movies released in 2012.
     * Your query should output a table with a single column and a single row (not counting the header) containing the average rating.
