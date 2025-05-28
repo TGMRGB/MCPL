@@ -41,6 +41,6 @@ Ultimately, you should submit both your log.sql and answers.txt files.
 - [x] Problem 2  
 - [x] Problem 3  
   
-## - [x] Week 7  
+## Week 7 Complete 🎉
 Week 7, SQL, is officially finished. By `Wednesday, May 28`, I will be working on "Week 8(Each unit is named "Week", as each unit is designed to be completed in one week. I am on an accelerated schedule.): **HTML/CSS/JS**.
 
