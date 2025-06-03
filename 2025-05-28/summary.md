@@ -30,7 +30,6 @@ As I have had zero exposure to H/C/J before, I started with no knowledge of how 
 <hr>
 
 <b>Specification:</b> <br>
-<code>
 Design a webpage using HTML, CSS, and JavaScript to let users answer trivia questions.
 <ul>
 <li>In index.html, add beneath “Part 1” a multiple-choice trivia question of your choosing with HTML.</li>
@@ -60,7 +59,6 @@ Optionally, you may also:
 <li>Edit styles.css to change the CSS of your webpage!</li>
 <li>Add additional trivia questions to your trivia quiz if you would like!</li>
 </ul>
-</code>
 
 <hr>
 
