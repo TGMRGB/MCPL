@@ -68,5 +68,5 @@ Optionally, you may also:
 
 ## Capstone Status:
 - [x] Problem 1 
-- [ ] Problem 2 
+- [ ] Problem 2   
 My schedule is progressing as expected. However, I am unsure as to if I am able to finish problem 2 before <code>2025-05-31</code>. If not, I will be finished Problem 2 by <code>2025-06-02</code>, at the very latest.
