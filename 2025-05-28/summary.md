@@ -29,16 +29,44 @@ As I have had zero exposure to H/C/J before, I started with no knowledge of how 
 
 <hr>
 
-<b>Specification:</b>
-
+<b>Specification:</b> <br>
+<code>
+Design a webpage using HTML, CSS, and JavaScript to let users answer trivia questions.
+<ul>
+<li>In index.html, add beneath “Part 1” a multiple-choice trivia question of your choosing with HTML.</li>
+    <ul>
+    <li>You should use an h3 heading for the text of your question.</li>
+    <li>You should have one button for each of the possible answer choices. There should be at least three answer choices, of which exactly one should be correct.</li>
+    </ul>
+<li>Using JavaScript, add logic so that the buttons change colors when a user clicks on them.</li>
+    <ul>
+    <li>If a user clicks on a button with an incorrect answer, the button should turn red and text should appear beneath the question that says “Incorrect”.</li>
+    <li>If a user clicks on a button with the correct answer, the button should turn green and text should appear beneath the question that says “Correct!”.</li>
+    </ul>
+<li>In index.html, add beneath “Part 2” a text-based free response question of your choosing with HTML.</li>
+    <ul>
+    <li>You should use an h3 heading for the text of your question.</li>
+    <li>You should use an input field to let the user type a response.</li>
+    <li>You should use a button to let the user confirm their answer.</li>
+    </ul>
+<li>Using JavaScript, add logic so that the text field changes color when a user confirms their answer.</li>
+    <ul>
+    <li>If the user types an incorrect answer and presses the confirmation button, the text field should turn red and text should appear beneath the question that says “Incorrect”.</li>
+    <li>If the user types the correct answer and presses the confirmation button, the input field should turn green and text should appear beneath the question that says “Correct!”</li>
+    </ul>
+</ul>
+Optionally, you may also:
+<ul>
+<li>Edit styles.css to change the CSS of your webpage!</li>
+<li>Add additional trivia questions to your trivia quiz if you would like!</li>
+</ul>
+</code>
 
 <hr>
 
-**The code I created for these problems can be found in this directory's subfolder.**
+<strong>The code I created for these problems can be found in this directory's subfolder.</strong>
 
-## Capstone Status:
-- [x] Problem 1  
-- [ ] Problem 2  
-- [ ] Problem 3  
-My schedule is progressing as planned. I am set to complete the rest of the problem set before `2025-05-21`, my next reflection date.  
-My next status report is slated to be complete before that date.
+<h2>Capstone Status:</h2>
+- [x] Problem 1  <br>
+- [ ] Problem 2  <br>
+My schedule is progressing as expected. However, I am unsure as to if I am able to finish problem 2 before <code>2025-05-31</code>. If not, I will be finished Problem 2 by <code>2025-06-02</code>, at the very latest.
