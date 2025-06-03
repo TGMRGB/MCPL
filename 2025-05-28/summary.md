@@ -66,7 +66,7 @@ Optionally, you may also:
 
 <strong>The code I created for these problems can be found in this directory's subfolder.</strong>
 
-<h2>Capstone Status:</h2>
-- [x] Problem 1  <br>
-- [ ] Problem 2  <br>
+## Capstone Status:
+- [x] Problem 1 
+- [ ] Problem 2 
 My schedule is progressing as expected. However, I am unsure as to if I am able to finish problem 2 before <code>2025-05-31</code>. If not, I will be finished Problem 2 by <code>2025-06-02</code>, at the very latest.
