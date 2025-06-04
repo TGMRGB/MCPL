@@ -1,0 +1,111 @@
+html {
+  font-size: 16px;
+}
+body {
+  font-family: "Roboto", Arial;
+  background-color: #d9d9d9;
+}
+.title {
+  text-align: center;
+  font-size: 3.5rem;
+  margin-bottom: 200px;
+  font-family: "Rammetto One";
+}
+#directory {
+  font-size: 1.5rem;
+  border: 3px solid black;
+  border-radius: 10px;
+  width: 500px;
+  text-align: center;
+  padding: 25px;
+  margin: auto;
+}
+a {
+  text-decoration: none;
+}
+#interests-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 20px;
+  font-family: "Rammetto One", "Calibri";
+}
+#interests-list {
+  margin-bottom: 40px;
+}
+.homebutton {
+  border: 3px solid black;
+  border-radius: 10px;
+  width: 300px;
+  padding: 5px;
+  height: 85px;
+  background-color: white;
+  color: black;
+}
+.homebutton-text {
+  font-weight: bold;
+  font-size: 2rem;
+  display: inline;
+  position: relative;
+  top: 10px;
+  color: black;
+  text-transform: uppercase;
+}
+.dtext {
+  border: 3px solid black;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+}
+.dlink {
+  color: black;
+  font-weight: bold;
+}
+#homebutton-interests {
+  margin: auto;
+}
+#interestsAccordion {
+  margin: 20px;
+  font-family: "Comfortaa", "Calibri";
+}
+.accordion-button {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+thead {
+  text-align: center;
+}
+tbody {
+  text-align: center;
+}
+#result {
+  font-weight: bold;
+  font-size: 1.25rem;
+  color: red;
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+#other-form {
+  margin: 20px;
+}
+#other-feedback {
+  text-align: center;
+}
+.download {
+  border-radius: 10px;
+  border: 3;
+  background-color: #0099ff;
+  padding: 10px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.download:hover {
+  background-color: #10bfff;
+}
+.gif {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  margin-bottom: 200px;
+}

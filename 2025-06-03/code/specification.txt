@@ -1,0 +1,50 @@
+Unique HTML tags used:
+<html>
+<head>
+<meta>
+<link>
+<title>
+<body>
+<div>
+<ol>
+<b>
+<li>
+<a>
+<script>
+<h2>
+<button>
+<strong>
+<code>
+<path>
+<br>
+<textarea>
+<svg>
+<input>
+<label>
+, among others.
+
+Unique CSS Properties:
+font-size
+text-align
+margin
+background-color
+color
+font-family
+border
+border-radius
+font-weight
+padding
+width
+height
+display
+text-decoration
+text-transform
+position
+justify-content
+, among others.
+
+JavaScript was used to provide interactivity to some buttons,
+and to provide functionality to some forms.
+Bootstrap was used to replace some base HTML formatting, such as
+tables, or to display content, like an accordion. This is due to the
+fact that HTML's default <table> tag is outdated.
