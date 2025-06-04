@@ -60,9 +60,8 @@ You should also create a text file, `specification.txt`, which lists the 10 HTML
 
 ## Capstone Status:
 - [x] Problem 1  
-- [x] Problem 2  
-- [x] Problem 3  
+- [x] Problem 2   
   
-## Week 7 Complete 🎉
-Week 7, SQL, is officially finished. By `Wednesday, May 28`, I will be working on "Week 8 (Each unit is named "Week", as each unit is designed to be completed in one week. I am on an accelerated schedule.) : **HTML/CSS/JS**.
+## Week 8 Complete 🎉
+Week 8, HTML/CSS/JS, is officially finished. Starting `Wednesday, June 5`, I will start work on the lecture and problemsets for **Week 9: Flask**. This problemset should be rather trivial due to my previous extended knowledge of `python`. After I finish this final problemset, I will officially start work on my final project.
 
