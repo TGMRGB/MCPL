@@ -50,7 +50,7 @@ Optionally, you may also:
 **There is no finished code for this status update.**
 
 ## Capstone Status:
-- [x] Problem 1  
+- [ ] Problem 1  
 - [ ] Problem 2   
 
 Aside from previous delays, my schedule is proceeding surprisingly well. I am on course to completing the first problem set by `Tomorrow, 2025-06-05`, and am on track to completing the second problem set by `2025-06-09`. This is, of course, slightly behind schedule, and I may have to balance my presentation creation with my final project creation.
