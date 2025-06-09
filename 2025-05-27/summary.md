@@ -1,4 +1,4 @@
-# Capstone Progress Report: 2025-05-20
+# Capstone Progress Report: 2025-05-27
 
 ## Concepts Learned:
 `No new concepts learned. This is a work progress log.`  

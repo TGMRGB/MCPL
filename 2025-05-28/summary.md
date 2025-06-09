@@ -1,4 +1,4 @@
-# Capstone Progress Report: 2025-05-17
+# Capstone Progress Report: 2025-05-28
 
 ## Concepts Learned:
 * Basic Syntax of HTML, CSS, and JS.
