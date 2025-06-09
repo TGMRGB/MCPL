@@ -47,8 +47,7 @@ Optionally, you may also:
 
 ---
 
-**The code I created for these problems can be found in this directory's subfolder. Peruse at one's own leisure.**
-
+**There is no finished code for this status update.**
 
 ## Capstone Status:
 - [x] Problem 1  
