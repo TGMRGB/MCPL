@@ -1,4 +1,4 @@
-# Capstone Progress Report: 2025-06-04
+# Capstone Progress Report: 2025-06-05
 
 ## Concepts Learned:
 
