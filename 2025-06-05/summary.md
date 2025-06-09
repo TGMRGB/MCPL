@@ -1,12 +1,13 @@
 # Capstone Progress Report: 2025-06-04
 
 ## Concepts Learned:
-**The basics of Flask, including:**
+
 `No new concepts learned. This is a progress update log.`
 
 ## Tasks Completed:
 * Finished watching Lecture 9
 * Finished Problem 1: Birthdays
+* Started work on Problem 2: Finance
 
 
 ## Problem 1: Birthdays
@@ -14,19 +15,24 @@
 
 
 **Summary:**  
-`todo`
+This is a continuation of the work completed on    `2025-06-04`. I finished the problem according to the specification found above, and included the bonus feature `Delete Birthday Entries`.
 
 **Challenges:** <br>
-`none`
+`none`. This problem can be considered quite trivial if Lecture 9 was watched. 
+
+**The finished code can be found in this directory's subfolder. Peruse at one's own leisure.**
 
 ---
 
-**Specification:**  
-`todo`
+## Problem 2: Finance
+**The Task: Implement a website via which users can “buy” and “sell” stocks, à la the below.**  
+![The task for this problem.]()
+
+
+
 
 ---
 
-**There is no finished code for this status update.**
 
 ## Capstone Status:
 - [x] Problem 1  
