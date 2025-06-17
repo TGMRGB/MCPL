@@ -27,4 +27,4 @@ I have successfully implemented all features that I require of myself. Members o
 * **Time started**: `2025-05-15`
 * **Time Ended**: `2025-06-16`
 * **Time Spent Working:**: `33 days`  
-* **Lines of Code written**: 
+* **Lines of Code written**: `2,413`
